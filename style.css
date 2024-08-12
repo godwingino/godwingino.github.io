@@ -480,7 +480,7 @@ h3{
     width: 100%;
     justify-content: space-between;
     gap: 20px;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
 }
 .certificates-box{
     position: relative;
